@@ -1,0 +1,13 @@
+2025-08-18 10:04:29 [main] INFO  Log - Starting Webdriver
+2025-08-18 10:04:32 [main] INFO  Log - Got to the URL
+2025-08-18 10:04:35 [main] INFO  testRegisterUser - ===== Test Start: testRegistration =====
+2025-08-18 10:04:35 [main] INFO  testRegisterUser - Opening Signup/Login page from HomePage
+2025-08-18 10:04:38 [main] INFO  testRegisterUser - Generated data -> username: FPSHG, email: dMboz@example.com
+2025-08-18 10:04:38 [main] INFO  testRegisterUser - Entered name & email, clicking Sign Up
+2025-08-18 10:04:41 [main] INFO  testRegisterUser - Filling account info (gender, password, DOB)
+2025-08-18 10:04:42 [main] INFO  testRegisterUser - Filling address info
+2025-08-18 10:04:43 [main] INFO  testRegisterUser - Clicking Create Account button
+2025-08-18 10:04:44 [main] INFO  testRegisterUser - Verifying confirmation messages
+2025-08-18 10:04:44 [main] INFO  testRegisterUser - All confirmation messages matched successfully ✅
+2025-08-18 10:04:44 [main] INFO  testRegisterUser - ===== Test End: testRegistration =====
+2025-08-18 10:04:44 [main] INFO  testRegisterUser - Closing browser
