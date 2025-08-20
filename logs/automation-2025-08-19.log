@@ -1,0 +1,16 @@
+2025-08-19 16:04:20,263 INFO u.Log [TestNG-tests-1] Starting Webdriver
+2025-08-19 16:04:21,325 INFO u.Log [TestNG-tests-1] Got to the URL
+2025-08-19 16:04:24,482 INFO t.testRegisterUser [TestNG-tests-1] ===== Test Start: testRegistration =====
+2025-08-19 16:04:24,493 INFO t.testRegisterUser [TestNG-tests-1] Opening Signup/Login page from HomePage
+2025-08-19 16:04:25,001 INFO t.testRegisterUser [TestNG-tests-1] Generated data -> username: DJBRE, email: VMMFt@example.com
+2025-08-19 16:04:25,134 INFO t.testRegisterUser [TestNG-tests-1] Entered name & email, clicking Sign Up
+2025-08-19 16:04:25,188 INFO t.testRegisterUser [TestNG-tests-1] Filling account info (gender, password, DOB)
+2025-08-19 16:04:26,374 INFO t.testRegisterUser [TestNG-tests-1] Filling address info
+2025-08-19 16:04:27,030 INFO t.testRegisterUser [TestNG-tests-1] Clicking Create Account button
+2025-08-19 16:04:28,295 INFO t.testRegisterUser [TestNG-tests-1] Verifying confirmation messages
+2025-08-19 16:04:28,345 INFO t.testRegisterUser [TestNG-tests-1] All confirmation messages matched successfully ✅
+2025-08-19 16:04:28,346 INFO t.testRegisterUser [TestNG-tests-1] ===== Test End: testRegistration =====
+2025-08-19 16:04:28,346 INFO t.testRegisterUser [TestNG-tests-1] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-19 16:04:28,346 INFO t.testRegisterUser [TestNG-tests-1] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-19 16:04:28,736 INFO t.testRegisterUser [TestNG-tests-1] Successfully wrote user credentials to Excel file.
+2025-08-19 16:04:28,741 INFO t.testRegisterUser [TestNG-tests-1] Closing browser

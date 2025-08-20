@@ -1,5 +1,7 @@
 package testCases;
 
+import java.io.IOException;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
@@ -8,6 +10,7 @@ import org.testng.annotations.Test;
 
 import pageObject.HomePage;
 import pageObject.SignupLoginPage;
+import utils.ExcelUtils;
 
 public class testRegisterUser extends BaseClass {
 
@@ -28,8 +31,8 @@ public class testRegisterUser extends BaseClass {
         // Random test data
         String username = randomString().toUpperCase();
         String email    = randomString() + "@example.com";
-        String password = "P@ssw0rd123";
-        log.info("Generated data -> username: {}, email: {}", username, email);
+        String password = randomString() +"@31";
+        log.info("Generated data -> username: {}, email: {}", username, email, username);
 
         // First screen: name + email + signup
         sLoginPage.clickname(username);
@@ -41,7 +44,6 @@ public class testRegisterUser extends BaseClass {
         log.info("Filling account info (gender, password, DOB)");
         sLoginPage.selectGenderadio();
         sLoginPage.inputpassword(password);
-        driver.switchTo().activeElement().sendKeys(password);
         sLoginPage.selectDOB("15", "June", "1995");
 
         // Address Info
@@ -56,7 +58,7 @@ public class testRegisterUser extends BaseClass {
         sLoginPage.mobilenumber("017" + faker.number().digits(8));
 
         log.info("Clicking Create Account button");
-        sLoginPage.clickCreateBtn(); // তুমি যে নাম ব্যবহার করছো সেটাই রাখলাম
+        sLoginPage.clickCreateBtn();
 
         // check the confirmation message
         log.info("Verifying confirmation messages");
@@ -68,11 +70,21 @@ public class testRegisterUser extends BaseClass {
 
         log.info("All confirmation messages matched successfully ✅");
         log.info("===== Test End: testRegistration =====");
+        
+        log.info("!!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!");
+
+        try {
+            log.info("!!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!"); // <-- এই লগটি আসছে কি না দেখুন
+            
+            String excelFilePath = System.getProperty("user.dir") + "/src/test/resources/testData.xlsx";
+            ExcelUtils excelUtil = new ExcelUtils(excelFilePath);
+            excelUtil.writeData("UserData", 1, username, email, password);
+            log.info("Successfully wrote user credentials to Excel file.");
+        } catch (IOException e) {
+            log.error("Failed to write to Excel file: " + e.getMessage());
+            Assert.fail("Test failed because it could not write data to the Excel file.");
+        }
     }
 
-    @AfterTest
-    public void tearDown() {
-        log.info("Closing browser");
-        if (driver != null) driver.quit();
-    }
+    
 }

@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test thread-count="5" name="Parallel browser">
+  <test thread-count="5" name="Test Register and Login">
+    
+    
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    
     <classes>
       <class name="testCases.testRegisterUser"/>
+      <class name="testCases.LoginWithCorrectEmailandPassword"/>
     </classes>
-  </test> <!-- Parallel browser -->
+  </test> <!-- Test Register and Login -->
 </suite> <!-- Suite -->

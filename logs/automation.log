@@ -1,0 +1,536 @@
+2025-08-20 00:46:56,489 INFO u.Log [main] Starting Webdriver for OS: windows and Browser: chrome
+2025-08-20 00:46:57,647 INFO u.Log [main] Navigating to the URL
+2025-08-20 00:47:01,663 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 00:47:01,675 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 00:47:02,577 INFO t.testRegisterUser [main] Generated data -> username: YDGNK, email: GXEhu@example.com
+2025-08-20 00:47:02,781 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 00:47:03,840 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 00:47:04,512 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 00:47:05,229 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 00:47:06,762 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 00:47:06,815 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 00:47:06,815 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 00:47:06,815 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 00:47:06,815 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 00:47:06,815 ERROR t.testRegisterUser [main] Failed to write to Excel file: C:\Users\User\eclipse-workspace\Automation-Exercise\src\main\resources\testData.xlsx (The system cannot find the file specified)
+2025-08-20 00:47:06,831 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 00:47:06,832 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 00:47:06,832 ERROR t.LoginWithCorrectEmailandPassword [main] Failed to read data from Excel file: C:\Users\User\eclipse-workspace\Automation-Exercise\src\main\resources\testData.xlsx (The system cannot find the file specified)
+2025-08-20 00:47:06,834 INFO u.Log [main] ===== Closing browser after test =====
+2025-08-20 00:49:28,729 INFO u.Log [main] Starting Webdriver for OS: windows and Browser: chrome
+2025-08-20 00:49:29,783 INFO u.Log [main] Navigating to the URL
+2025-08-20 00:49:33,886 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 00:49:33,898 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 00:49:34,994 INFO t.testRegisterUser [main] Generated data -> username: PVAPF, email: hkQcS@example.com
+2025-08-20 00:49:35,108 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 00:49:35,135 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 00:49:36,578 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 00:49:37,097 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 00:49:38,402 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 00:49:38,443 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 00:49:38,443 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 00:49:38,443 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 00:49:38,443 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 00:49:38,870 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 00:49:38,870 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 00:49:38,870 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 00:49:38,896 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: hkQcS@example.com
+2025-08-20 00:49:38,896 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 00:49:38,896 INFO u.Log [main] ===== Closing browser after test =====
+2025-08-20 00:52:51,151 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 00:52:52,697 INFO u.Log [main] Navigating to the URL
+2025-08-20 00:52:56,937 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 00:52:56,954 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 00:52:57,818 INFO t.testRegisterUser [main] Generated data -> username: EXRFE, email: CSZgl@example.com
+2025-08-20 00:52:57,934 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 00:52:58,852 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 00:52:59,303 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 00:52:59,783 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 00:53:00,981 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 00:53:01,024 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 00:53:01,024 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 00:53:01,024 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 00:53:01,024 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 00:53:01,476 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 00:53:01,481 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 00:53:01,638 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 00:53:02,593 INFO u.Log [main] Navigating to the URL
+2025-08-20 00:53:06,647 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 00:53:06,648 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 00:53:06,676 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: CSZgl@example.com
+2025-08-20 00:53:06,676 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 00:53:07,400 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 00:53:07,577 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 00:53:07,582 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:09:19,296 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:09:20,419 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:09:24,649 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 01:09:24,662 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 01:09:25,429 INFO t.testRegisterUser [main] Generated data -> username: BCJZN, email: McDzH@example.com
+2025-08-20 01:09:25,572 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 01:09:26,605 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 01:09:27,267 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 01:09:28,010 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 01:09:29,327 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 01:09:29,373 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 01:09:29,373 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 01:09:29,373 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:09:29,373 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:09:29,788 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 01:09:29,791 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:09:29,985 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:09:30,749 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:09:34,671 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 01:09:34,671 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 01:09:34,695 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: McDzH@example.com
+2025-08-20 01:09:34,695 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 01:09:35,625 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 01:09:35,944 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 01:09:37,951 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:13:09,319 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:13:14,545 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:13:18,673 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 01:13:18,686 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 01:13:19,464 INFO t.testRegisterUser [main] Generated data -> username: IWUPO, email: eVkBe@example.com
+2025-08-20 01:13:19,573 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 01:13:19,695 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 01:13:21,234 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 01:13:21,886 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 01:13:21,963 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 01:13:23,091 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 01:13:23,092 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 01:13:23,092 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:13:23,092 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:13:23,515 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 01:13:23,515 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:13:23,682 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:13:24,473 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:13:28,532 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 01:13:28,533 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 01:13:28,570 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: eVkBe@example.com
+2025-08-20 01:13:28,570 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 01:13:29,254 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 01:13:33,658 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 01:13:35,675 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:19:47,373 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:19:48,435 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:19:52,633 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 01:19:52,652 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 01:19:53,544 INFO t.testRegisterUser [main] Generated data -> username: CSZNF, email: dMnoc@example.com
+2025-08-20 01:19:53,697 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 01:19:54,643 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 01:19:55,267 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 01:19:55,879 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 01:19:57,047 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 01:19:57,097 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 01:19:57,097 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 01:19:57,097 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:19:57,097 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:19:57,561 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 01:19:57,565 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:19:57,762 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:19:58,537 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:20:02,743 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 01:20:02,743 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 01:20:02,761 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: dMnoc@example.com
+2025-08-20 01:20:02,761 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 01:20:03,658 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 01:20:03,800 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 01:20:05,814 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:23:00,986 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:23:02,044 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:23:06,121 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 01:23:06,136 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 01:23:06,796 INFO t.testRegisterUser [main] Generated data -> username: XPAVK, email: ZHlvy@example.com
+2025-08-20 01:23:06,994 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 01:23:07,065 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 01:23:08,556 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 01:23:09,221 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 01:23:10,364 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 01:23:10,472 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 01:23:10,472 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 01:23:10,472 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:23:10,473 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:23:10,884 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 01:23:10,887 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:23:11,057 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:23:11,862 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:23:15,986 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 01:23:15,987 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 01:23:16,012 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: ZHlvy@example.com
+2025-08-20 01:23:16,014 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 01:23:16,756 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 01:23:20,374 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 01:23:30,379 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:28:13,201 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:28:14,275 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:28:18,573 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 01:28:18,590 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 01:28:19,300 INFO t.testRegisterUser [main] Generated data -> username: RLMQA, email: Pzkna@example.com
+2025-08-20 01:28:19,432 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 01:28:20,436 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 01:28:21,096 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 01:28:21,870 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 01:28:23,141 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 01:28:23,194 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 01:28:23,195 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 01:28:23,195 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:28:23,195 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:28:23,633 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 01:28:23,636 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:28:23,798 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:28:24,558 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:28:28,658 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 01:28:28,658 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 01:28:28,696 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: Pzkna@example.com
+2025-08-20 01:28:28,696 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 01:28:29,342 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 01:28:29,593 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 01:28:39,612 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:38:10,119 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:38:11,227 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:38:15,109 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 01:38:15,129 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 01:38:16,536 INFO t.testRegisterUser [main] Generated data -> username: DMSZA, email: bhbAo@example.com
+2025-08-20 01:38:16,655 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 01:38:17,658 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 01:38:18,281 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 01:38:19,024 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 01:38:20,304 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 01:38:20,362 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 01:38:20,362 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 01:38:20,362 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:38:20,362 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 01:38:20,779 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 01:38:20,783 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 01:38:20,953 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 01:38:21,720 INFO u.Log [main] Navigating to the URL
+2025-08-20 01:38:26,013 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 01:38:26,014 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 01:38:26,045 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: bhbAo@example.com
+2025-08-20 01:38:26,045 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 01:38:27,757 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 01:38:31,343 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 01:38:41,351 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:08:34,554 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:08:41,107 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:08:44,418 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 10:08:44,428 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 10:08:45,199 INFO t.testRegisterUser [main] Generated data -> username: IXEXN, email: aOQtR@example.com
+2025-08-20 10:08:45,316 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 10:08:47,318 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 10:08:47,956 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 10:08:48,755 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 10:08:49,832 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:08:50,023 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:08:50,863 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:08:54,045 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 10:08:54,045 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 10:08:54,518 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: bhbAo@example.com
+2025-08-20 10:08:54,518 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 10:08:58,010 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 10:09:02,202 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 10:09:12,214 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:21:09,866 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:21:10,911 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:21:13,667 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 10:21:13,679 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 10:21:14,559 INFO t.testRegisterUser [main] Generated data -> username: OMDNW, email: mutaG@example.com
+2025-08-20 10:21:14,693 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 10:21:15,777 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 10:21:16,403 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 10:21:17,018 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 10:21:18,300 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 10:21:18,365 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 10:21:18,365 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 10:21:18,365 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:21:18,365 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:21:18,780 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 10:21:18,780 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:21:18,921 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:21:19,675 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:21:22,310 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 10:21:22,310 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 10:21:22,343 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: mutaG@example.com
+2025-08-20 10:21:22,344 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 10:21:23,095 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 10:21:25,557 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 10:21:35,577 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:35:00,454 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:35:01,574 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:35:06,888 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 10:35:06,900 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 10:35:07,753 INFO t.testRegisterUser [main] Generated data -> username: DUPZQ, email: hGVFo@example.com
+2025-08-20 10:35:07,842 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 10:35:08,767 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 10:35:09,282 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 10:35:09,762 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 10:35:10,952 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 10:35:11,003 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 10:35:11,003 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 10:35:11,003 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:35:11,003 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:35:11,427 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 10:35:11,430 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:35:11,601 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:35:12,454 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:35:15,658 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 10:35:15,659 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 10:35:15,692 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: hGVFo@example.com
+2025-08-20 10:35:15,693 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 10:35:16,430 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 10:35:16,578 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 10:35:26,593 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:37:13,594 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:37:14,599 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:37:18,268 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 10:37:18,283 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 10:37:18,911 INFO t.testRegisterUser [main] Generated data -> username: WXUOZ, email: JFCDr@example.com
+2025-08-20 10:37:19,019 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 10:37:19,128 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 10:37:20,835 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 10:37:21,439 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 10:37:22,601 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 10:37:22,661 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 10:37:22,662 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 10:37:22,662 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:37:22,662 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:37:23,082 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 10:37:23,082 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:37:23,234 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:37:24,002 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:37:27,196 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 10:37:27,199 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 10:37:27,216 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: JFCDr@example.com
+2025-08-20 10:37:27,216 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 10:37:28,033 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 10:37:30,509 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 10:37:40,515 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:46:14,931 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:46:15,967 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:46:19,467 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 10:46:19,480 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 10:46:20,306 INFO t.testRegisterUser [main] Generated data -> username: CTUVG, email: zBEHC@example.com
+2025-08-20 10:46:20,414 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 10:46:21,601 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 10:46:22,302 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 10:46:23,038 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 10:46:24,413 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 10:46:24,472 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 10:46:24,472 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 10:46:24,473 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:46:24,473 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:46:24,900 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 10:46:24,901 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:46:25,062 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:46:25,759 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:46:29,108 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 10:46:29,108 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 10:46:29,138 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: zBEHC@example.com
+2025-08-20 10:46:29,138 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 10:46:29,792 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 10:46:29,933 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 10:46:39,948 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:50:16,478 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:50:17,459 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:50:21,283 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 10:50:21,298 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 10:50:22,311 INFO t.testRegisterUser [main] Generated data -> username: NKSMP, email: bvujC@example.com
+2025-08-20 10:50:22,432 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 10:50:23,401 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 10:50:24,084 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 10:50:24,751 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 10:50:25,831 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 10:50:25,894 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 10:50:25,894 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 10:50:25,894 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:50:25,894 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 10:50:26,302 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 10:50:26,307 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 10:50:26,451 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 10:50:27,233 INFO u.Log [main] Navigating to the URL
+2025-08-20 10:50:30,729 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 10:50:30,729 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 10:50:30,761 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: bvujC@example.com
+2025-08-20 10:50:30,761 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 10:50:32,943 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 10:50:33,110 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 10:50:43,139 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 10:50:43,139 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [NKSMP]
+2025-08-20 10:50:43,139 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [NKSMP]
+2025-08-20 10:50:43,139 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 10:50:43,150 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:07:31,652 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:07:32,792 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:07:36,699 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 11:07:36,712 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 11:07:37,993 INFO t.testRegisterUser [main] Generated data -> username: EQGCB, email: DYygj@example.com
+2025-08-20 11:07:38,104 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 11:07:38,157 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 11:07:39,758 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 11:07:40,478 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 11:07:41,857 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 11:07:41,919 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 11:07:41,919 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 11:07:41,920 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:07:41,920 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:07:42,318 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 11:07:42,321 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:07:42,485 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:07:43,261 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:07:46,758 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 11:07:46,760 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 11:07:46,791 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: DYygj@example.com
+2025-08-20 11:07:46,791 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 11:07:47,602 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 11:07:47,748 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 11:07:57,795 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 11:07:57,795 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [EQGCB]
+2025-08-20 11:07:57,795 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [EQGCB]
+2025-08-20 11:07:57,795 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 11:07:57,797 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:10:15,828 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:10:18,346 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:10:21,667 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 11:10:21,691 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 11:10:22,450 INFO t.testRegisterUser [main] Generated data -> username: MTJSO, email: ENJvq@example.com
+2025-08-20 11:10:22,559 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 11:10:23,617 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 11:10:24,272 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 11:10:24,979 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 11:10:26,207 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 11:10:26,273 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 11:10:26,273 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 11:10:26,273 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:10:26,273 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:10:26,697 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 11:10:26,700 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:10:26,855 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:10:27,577 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:10:30,487 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 11:10:30,489 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 11:10:30,515 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: ENJvq@example.com
+2025-08-20 11:10:30,515 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 11:10:31,538 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 11:10:34,273 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 11:10:44,309 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 11:10:44,309 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [MTJSO]
+2025-08-20 11:10:44,309 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [MTJSO]
+2025-08-20 11:10:44,309 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 11:10:44,309 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:26:55,529 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:26:56,694 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:27:00,528 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 11:27:00,549 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 11:27:01,374 INFO t.testRegisterUser [main] Generated data -> username: HLMKU, email: dVLMO@example.com
+2025-08-20 11:27:01,479 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 11:27:02,322 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 11:27:02,984 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 11:27:03,639 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 11:27:04,747 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 11:27:04,804 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 11:27:04,805 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 11:27:04,805 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:27:04,805 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:27:05,250 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 11:27:05,253 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:27:05,422 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:27:06,237 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:27:09,613 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 11:27:09,615 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 11:27:09,642 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: dVLMO@example.com
+2025-08-20 11:27:09,644 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 11:27:10,298 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 11:27:10,467 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 11:27:20,487 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 11:27:20,487 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [HLMKU]
+2025-08-20 11:27:20,487 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [HLMKU]
+2025-08-20 11:27:20,487 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 11:27:20,487 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:36:17,057 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:36:18,062 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:36:21,207 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 11:36:21,228 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 11:36:22,122 INFO t.testRegisterUser [main] Generated data -> username: QMJXV, email: TvTCf@example.com
+2025-08-20 11:36:22,256 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 11:36:23,131 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 11:36:23,739 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 11:36:24,392 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 11:36:24,491 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 11:36:26,039 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 11:36:26,039 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 11:36:26,039 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:36:26,039 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 11:36:26,426 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 11:36:26,426 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 11:36:26,580 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 11:36:27,441 INFO u.Log [main] Navigating to the URL
+2025-08-20 11:36:30,492 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 11:36:30,493 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 11:36:30,524 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: TvTCf@example.com
+2025-08-20 11:36:30,525 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 11:36:31,373 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 11:36:33,925 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 11:36:43,960 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 11:36:43,960 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [QMJXV]
+2025-08-20 11:36:43,960 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [QMJXV]
+2025-08-20 11:36:43,960 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 11:36:43,960 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 12:04:25,721 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 12:04:26,828 INFO u.Log [main] Navigating to the URL
+2025-08-20 12:04:30,402 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 12:04:30,416 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 12:04:31,226 INFO t.testRegisterUser [main] Generated data -> username: RFJII, email: CtbZg@example.com
+2025-08-20 12:04:31,338 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 12:04:31,395 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 12:04:33,021 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 12:04:33,797 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 12:04:35,270 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 12:04:35,324 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 12:04:35,324 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 12:04:35,324 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 12:04:35,324 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 12:04:35,735 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 12:04:35,735 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 12:04:35,904 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 12:04:36,651 INFO u.Log [main] Navigating to the URL
+2025-08-20 12:04:40,283 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 12:04:40,284 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 12:04:40,307 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: CtbZg@example.com
+2025-08-20 12:04:40,307 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 12:04:41,008 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 12:04:44,191 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 12:04:54,220 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 12:04:54,220 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [RFJII]
+2025-08-20 12:04:54,220 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [RFJII]
+2025-08-20 12:04:54,220 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 12:04:55,588 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 12:06:37,238 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 12:06:38,246 INFO u.Log [main] Navigating to the URL
+2025-08-20 12:06:41,369 INFO t.testRegisterUser [main] ===== Test Start: testRegistration =====
+2025-08-20 12:06:41,382 INFO t.testRegisterUser [main] Opening Signup/Login page from HomePage
+2025-08-20 12:06:42,223 INFO t.testRegisterUser [main] Generated data -> username: LLVOB, email: NcBMm@example.com
+2025-08-20 12:06:42,356 INFO t.testRegisterUser [main] Entered name & email, clicking Sign Up
+2025-08-20 12:06:42,426 INFO t.testRegisterUser [main] Filling account info (gender, password, DOB)
+2025-08-20 12:06:44,032 INFO t.testRegisterUser [main] Filling address info
+2025-08-20 12:06:44,742 INFO t.testRegisterUser [main] Clicking Create Account button
+2025-08-20 12:06:45,808 INFO t.testRegisterUser [main] Verifying confirmation messages
+2025-08-20 12:06:45,859 INFO t.testRegisterUser [main] All confirmation messages matched successfully ✅
+2025-08-20 12:06:45,859 INFO t.testRegisterUser [main] ===== Test End: testRegistration =====
+2025-08-20 12:06:45,859 INFO t.testRegisterUser [main] !!!!!!!!!! ABOUT TO ENTER EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 12:06:45,859 INFO t.testRegisterUser [main] !!!!!!!!!! INSIDE EXCEL WRITE BLOCK !!!!!!!!!!
+2025-08-20 12:06:46,317 INFO t.testRegisterUser [main] Successfully wrote user credentials to Excel file.
+2025-08-20 12:06:46,317 INFO u.Log [main] ===== Closing browser after the test method =====
+2025-08-20 12:06:46,482 INFO u.Log [main] ===== Initializing WebDriver for a new test method =====
+2025-08-20 12:06:47,202 INFO u.Log [main] Navigating to the URL
+2025-08-20 12:06:50,279 INFO t.LoginWithCorrectEmailandPassword [main] ===== Test Start: LoginWithCorrectEmailandPassword =====
+2025-08-20 12:06:50,279 INFO t.LoginWithCorrectEmailandPassword [main] Reading credentials from Excel file...
+2025-08-20 12:06:50,316 INFO t.LoginWithCorrectEmailandPassword [main] Successfully read data. Email: NcBMm@example.com
+2025-08-20 12:06:50,316 INFO t.LoginWithCorrectEmailandPassword [main] Clicking on 'Signup / Login' button.
+2025-08-20 12:06:51,091 INFO t.LoginWithCorrectEmailandPassword [main] Entering credentials for login...
+2025-08-20 12:06:53,792 INFO t.LoginWithCorrectEmailandPassword [main] Clicked on Login button.
+2025-08-20 12:07:03,832 INFO t.LoginWithCorrectEmailandPassword [main] Matching username...
+2025-08-20 12:07:03,832 INFO t.LoginWithCorrectEmailandPassword [main] Text from Webpage: [LLVOB]
+2025-08-20 12:07:03,832 INFO t.LoginWithCorrectEmailandPassword [main] Username from Excel: [LLVOB]
+2025-08-20 12:07:03,832 INFO t.LoginWithCorrectEmailandPassword [main] Username match successful!
+2025-08-20 12:07:05,259 INFO u.Log [main] ===== Closing browser after the test method =====

@@ -11,3 +11,44 @@
 2025-08-18 10:04:44 [main] INFO  testRegisterUser - All confirmation messages matched successfully ✅
 2025-08-18 10:04:44 [main] INFO  testRegisterUser - ===== Test End: testRegistration =====
 2025-08-18 10:04:44 [main] INFO  testRegisterUser - Closing browser
+2025-08-18 21:32:23 [TestNG-tests-1] INFO  Log - Starting Webdriver
+2025-08-18 21:32:23 [TestNG-tests-2] INFO  Log - Starting Webdriver
+2025-08-18 21:32:29 [TestNG-tests-1] INFO  Log - Got to the URL
+2025-08-18 21:32:29 [TestNG-tests-2] INFO  Log - Got to the URL
+2025-08-18 21:34:16 [TestNG-tests-1] INFO  testRegisterUser - ===== Test Start: testRegistration =====
+2025-08-18 21:34:16 [TestNG-tests-1] INFO  testRegisterUser - Opening Signup/Login page from HomePage
+2025-08-18 21:34:17 [TestNG-tests-1] INFO  testRegisterUser - Generated data -> username: TZRFQ, email: rVdTD@example.com
+2025-08-18 21:34:17 [TestNG-tests-1] INFO  testRegisterUser - Entered name & email, clicking Sign Up
+2025-08-18 21:34:18 [TestNG-tests-1] INFO  testRegisterUser - Filling account info (gender, password, DOB)
+2025-08-18 21:34:19 [TestNG-tests-1] INFO  testRegisterUser - Filling address info
+2025-08-18 21:34:19 [TestNG-tests-1] INFO  testRegisterUser - Clicking Create Account button
+2025-08-18 21:34:19 [TestNG-tests-1] INFO  testRegisterUser - Verifying confirmation messages
+2025-08-18 21:34:22 [TestNG-tests-1] INFO  testRegisterUser - All confirmation messages matched successfully ✅
+2025-08-18 21:34:22 [TestNG-tests-1] INFO  testRegisterUser - ===== Test End: testRegistration =====
+2025-08-18 21:34:22 [TestNG-tests-1] INFO  testRegisterUser - Closing browser
+2025-08-19 10:41:49 [TestNG-tests-1] INFO  Log - Starting Webdriver
+2025-08-19 10:41:49 [TestNG-tests-2] INFO  Log - Starting Webdriver
+2025-08-19 10:41:52 [TestNG-tests-1] INFO  Log - Got to the URL
+2025-08-19 10:41:54 [TestNG-tests-2] INFO  Log - Got to the URL
+2025-08-19 10:41:56 [TestNG-tests-1] INFO  testRegisterUser - ===== Test Start: testRegistration =====
+2025-08-19 10:41:56 [TestNG-tests-1] INFO  testRegisterUser - Opening Signup/Login page from HomePage
+2025-08-19 10:41:57 [TestNG-tests-1] INFO  testRegisterUser - Generated data -> username: SDUCM, email: zpMuj@example.com
+2025-08-19 10:41:57 [TestNG-tests-1] INFO  testRegisterUser - Entered name & email, clicking Sign Up
+2025-08-19 10:41:57 [TestNG-tests-1] INFO  testRegisterUser - Filling account info (gender, password, DOB)
+2025-08-19 10:41:58 [TestNG-tests-1] INFO  testRegisterUser - Filling address info
+2025-08-19 10:41:59 [TestNG-tests-1] INFO  testRegisterUser - Clicking Create Account button
+2025-08-19 10:41:59 [TestNG-tests-2] INFO  testRegisterUser - ===== Test Start: testRegistration =====
+2025-08-19 10:41:59 [TestNG-tests-2] INFO  testRegisterUser - Opening Signup/Login page from HomePage
+2025-08-19 10:42:00 [TestNG-tests-1] INFO  testRegisterUser - Verifying confirmation messages
+2025-08-19 10:42:00 [TestNG-tests-1] INFO  testRegisterUser - All confirmation messages matched successfully ✅
+2025-08-19 10:42:00 [TestNG-tests-1] INFO  testRegisterUser - ===== Test End: testRegistration =====
+2025-08-19 10:42:00 [TestNG-tests-1] INFO  testRegisterUser - Closing browser
+2025-08-19 10:42:00 [TestNG-tests-2] INFO  testRegisterUser - Generated data -> username: AVEHA, email: qEHkU@example.com
+2025-08-19 10:42:01 [TestNG-tests-2] INFO  testRegisterUser - Entered name & email, clicking Sign Up
+2025-08-19 10:42:02 [TestNG-tests-2] INFO  testRegisterUser - Filling account info (gender, password, DOB)
+2025-08-19 10:42:02 [TestNG-tests-2] INFO  testRegisterUser - Filling address info
+2025-08-19 10:42:03 [TestNG-tests-2] INFO  testRegisterUser - Clicking Create Account button
+2025-08-19 10:42:04 [TestNG-tests-2] INFO  testRegisterUser - Verifying confirmation messages
+2025-08-19 10:42:04 [TestNG-tests-2] INFO  testRegisterUser - All confirmation messages matched successfully ✅
+2025-08-19 10:42:04 [TestNG-tests-2] INFO  testRegisterUser - ===== Test End: testRegistration =====
+2025-08-19 10:42:04 [TestNG-tests-2] INFO  testRegisterUser - Closing browser

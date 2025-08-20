@@ -1,25 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-18T10:04:29 BDT" name="Default suite" finished-at="2025-08-18T10:04:44 BDT" duration-ms="15149">
+  <suite started-at="2025-08-20T12:06:37 BDT" name="Suite" finished-at="2025-08-20T12:07:05 BDT" duration-ms="28212">
     <groups>
     </groups>
-    <test started-at="2025-08-18T10:04:29 BDT" name="Default test" finished-at="2025-08-18T10:04:44 BDT" duration-ms="15149">
+    <test started-at="2025-08-20T12:06:37 BDT" name="Test Register and Login" finished-at="2025-08-20T12:07:05 BDT" duration-ms="28212">
       <class name="testCases.testRegisterUser">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.testRegisterUser@22c01ab0]" started-at="2025-08-18T10:04:29 BDT" name="setup" finished-at="2025-08-18T10:04:35 BDT" duration-ms="5472" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.testRegisterUser@5f031ebd]" started-at="2025-08-20T12:06:37 BDT" name="setup" finished-at="2025-08-20T12:06:41 BDT" duration-ms="4129" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistration()[pri:0, instance:testCases.testRegisterUser@22c01ab0]" started-at="2025-08-18T10:04:35 BDT" name="testRegistration" finished-at="2025-08-18T10:04:44 BDT" duration-ms="9462" status="PASS">
+        <test-method signature="testRegistration()[pri:0, instance:testCases.testRegisterUser@5f031ebd]" started-at="2025-08-20T12:06:41 BDT" name="testRegistration" finished-at="2025-08-20T12:06:46 BDT" duration-ms="4956" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.testRegisterUser@22c01ab0]" started-at="2025-08-18T10:04:44 BDT" name="tearDown" finished-at="2025-08-18T10:04:44 BDT" duration-ms="184" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.testRegisterUser@5f031ebd]" started-at="2025-08-20T12:06:46 BDT" name="tearDown" finished-at="2025-08-20T12:06:46 BDT" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.testRegisterUser -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="testCases.LoginWithCorrectEmailandPassword">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginWithCorrectEmailandPassword@58ebfd03]" started-at="2025-08-20T12:06:46 BDT" name="setup" finished-at="2025-08-20T12:06:50 BDT" duration-ms="3797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginWithCreatedUser()[pri:0, instance:testCases.LoginWithCorrectEmailandPassword@58ebfd03]" started-at="2025-08-20T12:06:50 BDT" name="testLoginWithCreatedUser" finished-at="2025-08-20T12:07:05 BDT" duration-ms="14977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithCreatedUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginWithCorrectEmailandPassword@58ebfd03]" started-at="2025-08-20T12:07:05 BDT" name="tearDown" finished-at="2025-08-20T12:07:05 BDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginWithCorrectEmailandPassword -->
+    </test> <!-- Test Register and Login -->
+  </suite> <!-- Suite -->
 </testng-results>
